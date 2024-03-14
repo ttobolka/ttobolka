@@ -2,9 +2,9 @@
 - 👀 I’m interested in chemistry, anthropology, and data analytics 
 - 🌱 I’m currently learning data analytical tools and methods
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me thomastobolka@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I worked at one of the highest rated restaurants on Yelp in Texas
 
 <!---
 ttobolka/ttobolka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
